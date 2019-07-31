@@ -6,7 +6,7 @@
 
 **Team**: へび  
     - [Akihiro Nitta](https://akihironitta.github.io/)  
-    - [Norikazu Sakai](https://github.com/whale8/)  
+    - [Kazunori Sakai](https://github.com/whale8/)  
     - [Yuki Kotakehara](https://github.com/y-kotakehara)  
 
 ## Links  
