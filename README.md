@@ -1,6 +1,6 @@
 # Numerical Calculation
 
-**Instructor**: [Shigeto Nishitani](http://ist.ksc.kwansei.ac.jp/~nishitani/) ([Department of Informatics](http://ist.ksc.kwansei.ac.jp/), [School of Science and Technology](http://sci-tech.ksc.kwansei.ac.jp/), [Kwansei Gakuin University](https://www.kwansei.ac.jp))  
+**Instructor**: Shigeto Nishitani [[HP](http://ist.ksc.kwansei.ac.jp/~nishitani/)] [[GitHub](https://github.com/daddygongon)] ([Department of Informatics](http://ist.ksc.kwansei.ac.jp/), [School of Science and Technology](http://sci-tech.ksc.kwansei.ac.jp/), [Kwansei Gakuin University](https://www.kwansei.ac.jp))  
 
 **Lecture**: Fall 2017, Friday, 11:00-12:40, in VII-103  
 
@@ -19,7 +19,7 @@
 - [Python](./python_note.ipynb)  
 
 ## Assignments  
-01. 2017/10/06  [Tutorial](./assignment/asgmt01_20171006.ipynb)  
+01. 2017/10/06  [Python basics](./assignment/asgmt01_20171006.ipynb)  
 02. 2017/10/13  [Newton and bisection method](./assignment/asgmt02_20171013.ipynb)  
 03. 2017/10/20  [Error](./assignment/asgmt03_20171020.ipynb)  
 04. 2017/10/27  [Linear Algebra - **Eigenvalues and Eigenvectors** -](./assignment/asgmt04_20171027.ipynb)  
@@ -27,5 +27,9 @@
 06. 2017/11/10  [Linear Algebra - **Matrix Inverse** -](./assignment/asgmt05_20171110.ipynb)  
 07. 2017/11/17  [Linear Algebra - **hogehoge** -](./assignment/asgmt06_20171117.ipynb)  
 08. 2017/11/24  [Interpolation and Integral](./assignment/asgmt07_20171124.ipynb)  
-09. 2017/12/01  
-10. 2017/12/08  
+09. 2017/12/01  [Regression](./assignment/asgmt08_20171201.ipynb)  
+10. 2017/12/08  [FFT](./assignment/asgmt09_20171208.ipynb)
+11. 2017/12/15  [Physics](./assignment/asgmt10_20171215.ipynb)
+
+## Past Exams
+01. (2016)[./assignment/test2016.ipynb]
